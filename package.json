@@ -1,0 +1,17 @@
+{
+  "name": "analizador-visor-eventos",
+  "version": "1.0.0",
+  "description": "Analizador para eventos exportados del visor de eventos de Windows 10.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "express": "^4.21.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
