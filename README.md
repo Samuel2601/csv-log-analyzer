@@ -115,6 +115,6 @@ Distribuido bajo la Licencia MIT. Consulte `LICENSE` para más información.
 
 ## Contacto
 
-[Samuel Arévalo](https://github.com/samuel-arevalo) - [saamare99@gmail.com](mailto:saamare99@gmail.com)
+[Samuel Arévalo](https://github.com/Samuel2601) - [saamare99@gmail.com](mailto:saamare99@gmail.com)
 
 Enlace del Proyecto: https://github.com/Samuel2601/csv-log-analyzer
