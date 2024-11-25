@@ -30,7 +30,7 @@ Los eventos se agrupan en la siguiente jerarquía:
 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/[tu-usuario]/csv-log-analyzer.git
+git clone https://github.com/Samuel2601/csv-log-analyzer.git
 cd csv-log-analyzer
 ```
 
@@ -60,6 +60,7 @@ El servidor estará disponible en `http://localhost:3000`
 
 ```
 http://localhost:3000/analyze?path=/ruta/absoluta/a/directorio/logs
+http://localhost:3000/analyze?path=./data
 ```
 
 ## Ejemplo de Respuesta JSON
